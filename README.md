@@ -113,7 +113,7 @@ Os testes são executados automaticamente durante o `docker compose up --build`.
 
 ```bash
 https://github.com/guiklinke/event-hub.git
-cd event-hub-api
+cd event-hub
 ```
 
 **2. Suba a aplicação (API + Banco de Dados):**
